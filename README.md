@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christine Nguyen</h1>
-<h3 align="center">a</h3>
+<h3 align="center">I’m a Full Stack Web Developer that specializes in React and Node.</h3>
 
-- 🔭 I’m currently working on [a nonprofit project for CoderHeroes to create a web application to aid in the cause of helping underprivileged youth in the Chicagoland area break into tech.](https://github.com/Lambda-School-Labs/coder-heroes-fe)
+I’m currently working on a nonprofit project for [CoderHeroes] to create a web application to aid in the cause of helping underprivileged youth in the Chicagoland area break into tech.(https://github.com/Lambda-School-Labs/coder-heroes-fe)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

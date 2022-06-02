@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christine Nguyen</h1>
-<h3 align="center">I’m a Full Stack Web Developer that specializes in React and Node.</h3>
+<h3 align="center">I’m a Front End Developer that specializes in React and Redux.</h3>
 
-I’m currently working on a nonprofit project for [CoderHeroes](https://github.com/Lambda-School-Labs/coder-heroes-fe) to create a web application to aid in the cause of helping underprivileged youth in the Chicagoland area break into tech.
+I currently work at Konami Gaming, Inc. as a UI Developer! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christine Nguyen</h1>
 <h3 align="center">I’m a Front End Developer that specializes in React and Redux.</h3>
 
-I currently work at Konami Gaming, Inc. as a UI Developer! 
+<p align='center'>I currently work at Konami Gaming, Inc. as a UI Developer! </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
